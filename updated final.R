@@ -417,7 +417,6 @@ hvcustomers$prob <- predict(churn.rf,hvcustomers[,-c(16,19:21)],type="prob")
 finalprediction<-predict(churn.rf,hvcustomers[,-c(16,19:21)])
 table(finalprediction) # we can see out of 1726 high value customers 275 are likely to churn by extracting them companies can design retention policy for individual or group
 
-
-
+# added some comments
 
 
