@@ -419,4 +419,4 @@ table(finalprediction) # we can see out of 1726 high value customers 275 are lik
 
 # added some comments
 
-
+# added some more comments
